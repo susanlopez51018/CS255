@@ -1,2 +1,8 @@
-# CS255
+# CS255 Module 8 Journal Prompt 
 SNHU Course 
+
+The DriverPass project was designed for a client who wanted an online system to help students schedule driving lessons, make secure payments, and track their progress. The system also needed to allow instructors to manage their availability and administrators to oversee accounts and lesson information. My goal was to create a user-friendly, secure, and efficient platform that meets the needs of students, instructors, and administrators, while ensuring smooth lesson scheduling and payment processing.
+
+One aspect I tried to do well was creating clear and structured UML diagrams that accurately represent the system’s functions and interactions. The Use Case, Activity, Sequence, and Class Diagrams effectively illustrate how different users interact with the system, ensuring that each component aligns with DriverPass's business requirements. If I could revise one part of my work, I would refine the technical requirements section to better ensure that it aligns with both business goals and implementation feasibility.
+
+To design the system, I focused on understanding the user’s needs by identifying their key actions and pain points. This is crucial because a system that does not align with real user expectations will lead to poor adoption and inefficiency. By using process modeling and object-oriented design, I ensured that the system would be scalable, secure, and easy to use. In the future, I would further refine my system analysis techniques by using prototyping and user testing earlier in the design process to validate assumptions and improve usability. This approach would enhance efficiency, reduce redesign efforts, and ensure that the final product fully meets user needs.
